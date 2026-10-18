@@ -1,10 +1,10 @@
 # Cailey Coghlan
 
-**Data Scientist · MSc Data Science, University of Sheffield**
+**Data Scientist · MSc Data Science (with Distinction), University of Sheffield**
 
-I'm a data scientist specialising in machine learning, statistical inference and large-scale data processing. My work covers the full analytical lifecycle: auditing data quality, building reproducible pipelines, rigorous model validation, and turning results into clear recommendations for non-technical decision-makers. I've applied this across genomics, aviation, academic peer review, public opinion and the music industry.
+I'm a data scientist specialising in machine learning, statistical inference and large-scale data processing. My work covers the full analytical lifecycle: auditing data quality, building reproducible pipelines, rigorous model validation, and turning results into clear recommendations for non-technical decision-makers. I've applied this across genomics, aviation, political behaviour, academic peer review, and the music industry.
 
-I'm available for data science roles.
+I'm looking for full-time data scientist or data analyst roles.
 
 ---
 
@@ -36,17 +36,17 @@ This is a set of five accessible visualisations of 1,377 Billboard Hot 100 songs
 
 | | |
 |---|---|
-| **Languages** | R, Python, Spark SQL |
+| **Languages** | R, Python, and Spark SQL |
 | **Machine learning** | Gradient boosting (XGBoost), random forests, support vector machines, elastic-net and logistic regression, nested cross-validation, hyperparameter optimisation, SHAP explainability |
 | **Statistics** | Hypothesis testing, generalised linear models, odds ratios, multiple-testing correction, differential expression analysis (limma) |
 | **Data engineering** | PySpark, Databricks, distributed processing of nested and semi-structured data, data-quality auditing |
-| **Tools** | tidyverse, ggplot2, KNIME, IBM SPSS, RStudio, Jupyter, GitHub |
+| **Tools** | tidyverse, ggplot2, KNIME, IBM SPSS, RStudio, GitHub |
 
 ---
 
 ## Education
 
-**MSc Data Science, University of Sheffield.** All modules and the dissertation were completed in 2026, and the degree will be conferred in January 2027.
+**MSc Data Science, University of Sheffield: awarded with Distinction.** All modules and the dissertation were completed in 2026, and the degree will be conferred in January 2027.
 
 - **Dissertation:** *Psoriasis biomarker discovery with interpretable machine learning*. Awarded 88% (Distinction).
 - **Distinction-level module results:** Big Data Analytics (87%), Data Mining and AI (84%) and Data Analysis (72%).

@@ -4,7 +4,7 @@
 
 I'm a data scientist specialising in machine learning, statistical inference and large-scale data processing. My work covers the full analytical lifecycle: auditing data quality, building reproducible pipelines, rigorous model validation, and turning results into clear recommendations for non-technical decision-makers. I've applied this across genomics, aviation, political behaviour, academic peer review, and the music industry.
 
-I'm looking for full-time data scientist or data analyst roles.
+I'm looking for full-time data scientist or data analyst roles and am open to relocation.
 
 ---
 

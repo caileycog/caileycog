@@ -55,4 +55,4 @@ This is a set of five accessible visualisations of 1,377 Billboard Hot 100 songs
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/cailey-coghlan-10a8a8173/) · [caileycog@outlook.com](mailto:caileycog@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/caileycoghlan/) · [caileycog@outlook.com](mailto:caileycog@outlook.com)

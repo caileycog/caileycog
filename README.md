@@ -11,7 +11,7 @@ I'm looking for full-time data scientist or data analyst roles and am open to re
 ## Selected work
 
 **[Psoriasis Biomarker Discovery with Interpretable Machine Learning](https://github.com/caileycog/psoriasis-biomarker-discovery)** · *MSc dissertation · TPXimpact Data and Insights Award*
-I combined differential expression analysis with a nested cross-validated comparison of XGBoost, Random Forest and SVM classifiers, then used SHAP to explain each model's decisions. This narrowed 21,510 genes down to **14 candidate biomarkers**, including six not previously linked to psoriasis.
+ I combined differential expression analysis with a nested cross-validated comparison of XGBoost, Random Forest and SVM classifiers, then used SHAP to explain each model's decisions. This narrowed 21,510 genes down to **14 candidate biomarkers**, including six not previously linked to psoriasis.
 `R` `limma` `XGBoost` `Random Forest` `SVM` `SHAP` `nested cross-validation`
 
 **[Big Data Analysis of ICLR Submissions](https://github.com/caileycog/iclr-submissions-big-data-analysis)**

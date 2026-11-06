@@ -10,7 +10,7 @@ I'm looking for full-time data scientist or data analyst roles and am open to re
 
 ## Selected work
 
-**[Psoriasis Biomarker Discovery with Interpretable Machine Learning](https://github.com/caileycog/psoriasis-biomarker-discovery)** · *MSc dissertation*
+**[Psoriasis Biomarker Discovery with Interpretable Machine Learning](https://github.com/caileycog/psoriasis-biomarker-discovery)** · *MSc dissertation · TPXimpact Data and Insights Award*
 I combined differential expression analysis with a nested cross-validated comparison of XGBoost, Random Forest and SVM classifiers, then used SHAP to explain each model's decisions. This narrowed 21,510 genes down to **14 candidate biomarkers**, including six not previously linked to psoriasis.
 `R` `limma` `XGBoost` `Random Forest` `SVM` `SHAP` `nested cross-validation`
 
@@ -48,7 +48,7 @@ This is a set of five accessible visualisations of 1,377 Billboard Hot 100 songs
 
 **MSc Data Science, University of Sheffield: awarded with Distinction.** All modules and the dissertation were completed in 2026, and the degree will be conferred in January 2027.
 
-- **Dissertation:** *Psoriasis biomarker discovery with interpretable machine learning*. Awarded 88% (Distinction).
+- **Dissertation:** *Psoriasis biomarker discovery with interpretable machine learning*. Awarded 88% (Distinction) and the **TPXimpact Data and Insights Award** for the highest dissertation mark on the programme.
 - **Distinction-level module results:** Big Data Analytics (87%), Data Mining and AI (84%) and Data Analysis (72%).
 
 ---
